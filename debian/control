@@ -1,4 +1,4 @@
-IPackage: geolift
+Package: geolift
 Version: [[version]]
 Section: misc
 Priority: optional
