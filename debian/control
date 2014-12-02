@@ -1,3 +1,14 @@
+Source: geolift
+Section: misc
+Priority: optional
+Maintainer: Mohamed Sherif <sherif@informatik.uni-leipzig.de>
+Build-Depends: debhelper (>= 8.0.0),
+               shunit2
+Standards-Version: 3.9.6
+Homepage: http://aksw.org/Projects/GeoLift.html
+Vcs-Git: https://github.com/andreasschneiderleipzig/GeoLift.git
+Vcs-Browser: https://github.com/andreasschneiderleipzig/GeoLift
+
 Package: geolift
 Version: [[version]]
 Section: misc
@@ -6,4 +17,7 @@ Architecture: all
 Homepage: http://aksw.org/Projects/GeoLift.html
 Depends: openjdk-6-jre | sun-java6-jre
 Maintainer: Mohamed Sherif <sherif@informatik.uni-leipzig.de>
-Description: Spatial mapping framework for enriching RDF datasets with Geo-spatial information. GeoLift is a spatial mapping component aims to enrich RDF datasets with geo-spatial information. To achieve this goal, GeoLit relies on three atomic modules based on dereferencing, linking and NLP. GeoLift implemented in Java as an open-source project.
+Description: Spatial mapping framework for enriching RDF datasets with Geo-spatial information. 
+ GeoLift is a spatial mapping component aims to enrich RDF datasets with geo-spatial information. 
+ To achieve this goal, GeoLit relies on three atomic modules based on dereferencing, linking and NLP. 
+ GeoLift implemented in Java as an open-source project.
