@@ -3,4 +3,4 @@ GeoLift
 
 Framework to enrich geographic content in the Semantic Web
 
---trigger build 5
+--trigger build 6
